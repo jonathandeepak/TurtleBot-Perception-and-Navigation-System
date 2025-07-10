@@ -9,7 +9,7 @@
 - Torch
 - Numpy
 - Time
-- Os
+- OS(ubuntu 22.04 preferred else WSL2)
 
 ## Installation
 
