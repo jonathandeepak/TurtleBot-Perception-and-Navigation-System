@@ -19,7 +19,7 @@
 mkdir -p ros_perception_ws/src
 cd ~/ros_perception_ws/src
 
-git clone https://github.com/AkhilJavvadi/Perception-Based-Turtlebot-Navigation.git
+git clone https://github.com/jonathandeepak/TurtleBot-Perception-and-Navigation-System
 
 cd ~/ros_perception_ws
 
