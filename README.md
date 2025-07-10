@@ -1,4 +1,4 @@
-# Perception-Based Dynamic TurtleBot
+# TurtleBot-Perception-and-Navigation-System
 
 ## Prerequisites
 
@@ -11,7 +11,7 @@
 - Time
 - OS(ubuntu 22.04 preferred else WSL2)
 
-## Installation
+## 🔧 Setup Instructions
 
 ### 1. Clone the Repository
 
