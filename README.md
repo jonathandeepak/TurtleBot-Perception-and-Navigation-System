@@ -49,14 +49,9 @@ terminator
 
 Terminal 1 – Launch Gazebo simulation:
 ```bash
-cd ~/ros_ws
-source install/setup.bash
-source  /usr/share/gazebo/setup.bash      ## this step may not be needed
 ros2 launch enpm673_final_proj enpm673_world.launch.py "verbose:=true"
 ```
 Terminal 2 – Run the perception and navigation script
 ```bash
-cd ~/ros_ws
-source install/setup.bash
 ros2 run enpm673_final_proj enpm673_final_proj_main.py
 ```
